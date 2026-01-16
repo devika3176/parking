@@ -22,7 +22,7 @@ A simple **Smart Parking System** built using **HTML, CSS, and JavaScript**, des
 * **CSS3** – Styling (via `style.css`)
 * **JavaScript (Vanilla JS)** – Logic and functionality
 * **LocalStorage** – To store parking data persistently
-* **Google Maps Platform (API)** – To display parking location and nearby parking spots (Hackathon Feature)
+* **Google Firebase** - Multi-user access
 
 ## ⚙️ How It Works
 
